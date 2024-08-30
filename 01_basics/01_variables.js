@@ -14,6 +14,7 @@ console.table([variable1,variable2,variable3])
 
 console.log(variable1.indexOf("e"),variable1.charAt('1'))
 
+//*****************************************************Notes*************************************************************
 
 /*
 Prefer not to use var
